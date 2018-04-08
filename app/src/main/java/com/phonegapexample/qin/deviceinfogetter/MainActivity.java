@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        Log.v(TAG, "running send");
+        Log.v(TAG, "running send onCreate");
 
         JSONObject infoObj = getInfoJson();
         Log.v(TAG, "infoObj:" + infoObj.toString());
