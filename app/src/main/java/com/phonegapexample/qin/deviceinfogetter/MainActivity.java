@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
     public static int MY_PERMISSIONS_REQUEST_READ_CONTACTS = 33;
 
 
+
+
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
