@@ -68,6 +68,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        
+
         //分辨率----
         //cpu设置-----
         //内存设置-----
